@@ -1,0 +1,502 @@
+[
+    {
+        "Name": "Sodium",
+        "Max Nutrition": "436",
+        "Min Nutrition": "173"
+    },
+    {
+        "Name": "Vitamin D",
+        "Max Nutrition": "495",
+        "Min Nutrition": "161"
+    },
+    {
+        "Name": "Vitamin A",
+        "Max Nutrition": "540",
+        "Min Nutrition": "248"
+    },
+    {
+        "Name": "Vitamin E",
+        "Max Nutrition": "490",
+        "Min Nutrition": "141"
+    },
+    {
+        "Name": "Pantothenic acid",
+        "Max Nutrition": "640",
+        "Min Nutrition": "175"
+    },
+    {
+        "Name": "Selenium",
+        "Max Nutrition": "643",
+        "Min Nutrition": "222"
+    },
+    {
+        "Name": "Carbohydrate",
+        "Max Nutrition": "425",
+        "Min Nutrition": "216"
+    },
+    {
+        "Name": "Vitamin B6",
+        "Max Nutrition": "530",
+        "Min Nutrition": "231"
+    },
+    {
+        "Name": "Sodium",
+        "Max Nutrition": "500",
+        "Min Nutrition": "204"
+    },
+    {
+        "Name": "Vitamin C",
+        "Max Nutrition": "648",
+        "Min Nutrition": "213"
+    },
+    {
+        "Name": "Fiber",
+        "Max Nutrition": "491",
+        "Min Nutrition": "192"
+    },
+    {
+        "Name": "Potassium",
+        "Max Nutrition": "640",
+        "Min Nutrition": "129"
+    },
+    {
+        "Name": "Manganese",
+        "Max Nutrition": "559",
+        "Min Nutrition": "113"
+    },
+    {
+        "Name": "Magnesium",
+        "Max Nutrition": "412",
+        "Min Nutrition": "102"
+    },
+    {
+        "Name": "Sodium",
+        "Max Nutrition": "669",
+        "Min Nutrition": "122"
+    },
+    {
+        "Name": "Biotin",
+        "Max Nutrition": "495",
+        "Min Nutrition": "186"
+    },
+    {
+        "Name": "Iron",
+        "Max Nutrition": "597",
+        "Min Nutrition": "218"
+    },
+    {
+        "Name": "Vitamin C",
+        "Max Nutrition": "576",
+        "Min Nutrition": "219"
+    },
+    {
+        "Name": "Protein",
+        "Max Nutrition": "656",
+        "Min Nutrition": "225"
+    },
+    {
+        "Name": "Vitamin B12",
+        "Max Nutrition": "491",
+        "Min Nutrition": "117"
+    },
+    {
+        "Name": "Thiamin",
+        "Max Nutrition": "421",
+        "Min Nutrition": "108"
+    },
+    {
+        "Name": "Carbohydrate",
+        "Max Nutrition": "531",
+        "Min Nutrition": "231"
+    },
+    {
+        "Name": "Riboflavin",
+        "Max Nutrition": "477",
+        "Min Nutrition": "204"
+    },
+    {
+        "Name": "Fiber",
+        "Max Nutrition": "585",
+        "Min Nutrition": "172"
+    },
+    {
+        "Name": "Vitamin A",
+        "Max Nutrition": "546",
+        "Min Nutrition": "153"
+    },
+    {
+        "Name": "Vitamin K",
+        "Max Nutrition": "545",
+        "Min Nutrition": "104"
+    },
+    {
+        "Name": "Vitamin D",
+        "Max Nutrition": "401",
+        "Min Nutrition": "139"
+    },
+    {
+        "Name": "Vitamin E",
+        "Max Nutrition": "494",
+        "Min Nutrition": "200"
+    },
+    {
+        "Name": "Water",
+        "Max Nutrition": "610",
+        "Min Nutrition": "110"
+    },
+    {
+        "Name": "Phosphorus",
+        "Max Nutrition": "699",
+        "Min Nutrition": "243"
+    },
+    {
+        "Name": "Biotin",
+        "Max Nutrition": "422",
+        "Min Nutrition": "187"
+    },
+    {
+        "Name": "Folate",
+        "Max Nutrition": "637",
+        "Min Nutrition": "180"
+    },
+    {
+        "Name": "Protein",
+        "Max Nutrition": "490",
+        "Min Nutrition": "222"
+    },
+    {
+        "Name": "Fiber",
+        "Max Nutrition": "651",
+        "Min Nutrition": "148"
+    },
+    {
+        "Name": "Pantothenic acid",
+        "Max Nutrition": "403",
+        "Min Nutrition": "145"
+    },
+    {
+        "Name": "Vitamin E",
+        "Max Nutrition": "578",
+        "Min Nutrition": "189"
+    },
+    {
+        "Name": "Protein",
+        "Max Nutrition": "436",
+        "Min Nutrition": "205"
+    },
+    {
+        "Name": "Fiber",
+        "Max Nutrition": "425",
+        "Min Nutrition": "192"
+    },
+    {
+        "Name": "Copper",
+        "Max Nutrition": "633",
+        "Min Nutrition": "199"
+    },
+    {
+        "Name": "Vitamin A",
+        "Max Nutrition": "465",
+        "Min Nutrition": "242"
+    },
+    {
+        "Name": "Vitamin A",
+        "Max Nutrition": "525",
+        "Min Nutrition": "150"
+    },
+    {
+        "Name": "Vitamin C",
+        "Max Nutrition": "688",
+        "Min Nutrition": "108"
+    },
+    {
+        "Name": "Manganese",
+        "Max Nutrition": "509",
+        "Min Nutrition": "239"
+    },
+    {
+        "Name": "Sodium",
+        "Max Nutrition": "690",
+        "Min Nutrition": "132"
+    },
+    {
+        "Name": "Vitamin C",
+        "Max Nutrition": "414",
+        "Min Nutrition": "219"
+    },
+    {
+        "Name": "Choline",
+        "Max Nutrition": "499",
+        "Min Nutrition": "209"
+    },
+    {
+        "Name": "Vitamin E",
+        "Max Nutrition": "521",
+        "Min Nutrition": "129"
+    },
+    {
+        "Name": "Calcium",
+        "Max Nutrition": "609",
+        "Min Nutrition": "235"
+    },
+    {
+        "Name": "Fiber",
+        "Max Nutrition": "670",
+        "Min Nutrition": "147"
+    },
+    {
+        "Name": "Thiamin",
+        "Max Nutrition": "665",
+        "Min Nutrition": "151"
+    },
+    {
+        "Name": "Manganese",
+        "Max Nutrition": "653",
+        "Min Nutrition": "112"
+    },
+    {
+        "Name": "Vitamin B6",
+        "Max Nutrition": "556",
+        "Min Nutrition": "145"
+    },
+    {
+        "Name": "Vitamin B12",
+        "Max Nutrition": "449",
+        "Min Nutrition": "128"
+    },
+    {
+        "Name": "Magnesium",
+        "Max Nutrition": "633",
+        "Min Nutrition": "214"
+    },
+    {
+        "Name": "Zinc",
+        "Max Nutrition": "497",
+        "Min Nutrition": "187"
+    },
+    {
+        "Name": "Iron",
+        "Max Nutrition": "665",
+        "Min Nutrition": "139"
+    },
+    {
+        "Name": "Carbohydrate",
+        "Max Nutrition": "542",
+        "Min Nutrition": "179"
+    },
+    {
+        "Name": "Vitamin K",
+        "Max Nutrition": "621",
+        "Min Nutrition": "176"
+    },
+    {
+        "Name": "Sodium",
+        "Max Nutrition": "494",
+        "Min Nutrition": "164"
+    },
+    {
+        "Name": "Iron",
+        "Max Nutrition": "599",
+        "Min Nutrition": "158"
+    },
+    {
+        "Name": "Potassium",
+        "Max Nutrition": "481",
+        "Min Nutrition": "201"
+    },
+    {
+        "Name": "Potassium",
+        "Max Nutrition": "526",
+        "Min Nutrition": "149"
+    },
+    {
+        "Name": "Vitamin B12",
+        "Max Nutrition": "403",
+        "Min Nutrition": "193"
+    },
+    {
+        "Name": "Vitamin B6",
+        "Max Nutrition": "582",
+        "Min Nutrition": "233"
+    },
+    {
+        "Name": "Potassium",
+        "Max Nutrition": "426",
+        "Min Nutrition": "170"
+    },
+    {
+        "Name": "Biotin",
+        "Max Nutrition": "657",
+        "Min Nutrition": "159"
+    },
+    {
+        "Name": "Protein",
+        "Max Nutrition": "433",
+        "Min Nutrition": "210"
+    },
+    {
+        "Name": "Vitamin E",
+        "Max Nutrition": "677",
+        "Min Nutrition": "163"
+    },
+    {
+        "Name": "Vitamin E",
+        "Max Nutrition": "598",
+        "Min Nutrition": "199"
+    },
+    {
+        "Name": "Potassium",
+        "Max Nutrition": "604",
+        "Min Nutrition": "177"
+    },
+    {
+        "Name": "Vitamin E",
+        "Max Nutrition": "634",
+        "Min Nutrition": "193"
+    },
+    {
+        "Name": "Choline",
+        "Max Nutrition": "697",
+        "Min Nutrition": "112"
+    },
+    {
+        "Name": "Vitamin D",
+        "Max Nutrition": "700",
+        "Min Nutrition": "241"
+    },
+    {
+        "Name": "Manganese",
+        "Max Nutrition": "595",
+        "Min Nutrition": "234"
+    },
+    {
+        "Name": "Phosphorus",
+        "Max Nutrition": "677",
+        "Min Nutrition": "241"
+    },
+    {
+        "Name": "Manganese",
+        "Max Nutrition": "636",
+        "Min Nutrition": "226"
+    },
+    {
+        "Name": "Thiamin",
+        "Max Nutrition": "499",
+        "Min Nutrition": "177"
+    },
+    {
+        "Name": "Copper",
+        "Max Nutrition": "636",
+        "Min Nutrition": "184"
+    },
+    {
+        "Name": "Vitamin D",
+        "Max Nutrition": "439",
+        "Min Nutrition": "223"
+    },
+    {
+        "Name": "Zinc",
+        "Max Nutrition": "465",
+        "Min Nutrition": "203"
+    },
+    {
+        "Name": "Vitamin C",
+        "Max Nutrition": "687",
+        "Min Nutrition": "224"
+    },
+    {
+        "Name": "Caffeine",
+        "Max Nutrition": "414",
+        "Min Nutrition": "179"
+    },
+    {
+        "Name": "Sodium",
+        "Max Nutrition": "505",
+        "Min Nutrition": "168"
+    },
+    {
+        "Name": "Copper",
+        "Max Nutrition": "482",
+        "Min Nutrition": "154"
+    },
+    {
+        "Name": "Vitamin E",
+        "Max Nutrition": "414",
+        "Min Nutrition": "250"
+    },
+    {
+        "Name": "Sodium",
+        "Max Nutrition": "461",
+        "Min Nutrition": "134"
+    },
+    {
+        "Name": "Carbohydrate",
+        "Max Nutrition": "694",
+        "Min Nutrition": "238"
+    },
+    {
+        "Name": "Iron",
+        "Max Nutrition": "649",
+        "Min Nutrition": "112"
+    },
+    {
+        "Name": "Vitamin D",
+        "Max Nutrition": "537",
+        "Min Nutrition": "146"
+    },
+    {
+        "Name": "Zinc",
+        "Max Nutrition": "496",
+        "Min Nutrition": "189"
+    },
+    {
+        "Name": "Phosphorus",
+        "Max Nutrition": "410",
+        "Min Nutrition": "102"
+    },
+    {
+        "Name": "Thiamin",
+        "Max Nutrition": "551",
+        "Min Nutrition": "174"
+    },
+    {
+        "Name": "Protein",
+        "Max Nutrition": "553",
+        "Min Nutrition": "213"
+    },
+    {
+        "Name": "Caffeine",
+        "Max Nutrition": "552",
+        "Min Nutrition": "223"
+    },
+    {
+        "Name": "Magnesium",
+        "Max Nutrition": "426",
+        "Min Nutrition": "222"
+    },
+    {
+        "Name": "Vitamin B12",
+        "Max Nutrition": "647",
+        "Min Nutrition": "157"
+    },
+    {
+        "Name": "Caffeine",
+        "Max Nutrition": "555",
+        "Min Nutrition": "192"
+    },
+    {
+        "Name": "Choline",
+        "Max Nutrition": "621",
+        "Min Nutrition": "195"
+    },
+    {
+        "Name": "Copper",
+        "Max Nutrition": "411",
+        "Min Nutrition": "103"
+    },
+    {
+        "Name": "Riboflavin",
+        "Max Nutrition": "597",
+        "Min Nutrition": "106"
+    }
+]
